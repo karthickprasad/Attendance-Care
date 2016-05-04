@@ -1,2 +1,16 @@
-# Attendance-Care
-An attendance app for those Wise bunker's who want to keep them "out of trouble" due lack of attendance.Here we are to help you guys. Attendance Care has User-friendly interface to keep track your attendance.Just enter your timetable and record your attendance on daily or weekly basis.The app tracks your overall attendance as well as attendance for individual subjects.The app also has a key feature of going back and changing logs which most of all other app's lack on and also share your attendance report with friends online.
+# Attendance Care
+
+
+
+Sharded Counter Implementation using NDB for Google Cloud Datastore
+
+
+
+TO DO
+=====
+
+* Counter State
+* Implement Multi get / delete / update function in IncrementOnlyCounters
+* Plot a simpler graph. For average response time.
+* Assume Load while plotting instead to computing
+* Consider Mean time
