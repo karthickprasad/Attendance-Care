@@ -2,15 +2,9 @@
 
 
 
-Sharded Counter Implementation using NDB for Google Cloud Datastore
+Android application for School/College students attendance management.
 
 
 
 TO DO
 =====
-
-* Counter State
-* Implement Multi get / delete / update function in IncrementOnlyCounters
-* Plot a simpler graph. For average response time.
-* Assume Load while plotting instead to computing
-* Consider Mean time
